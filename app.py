@@ -36,7 +36,7 @@ def extract_text_from_pdf(uploaded_file):
         return f"Error reading PDF: {e}"
 
 # --- 2. ADVANCED UI DESIGN (CSS) ---
-st.set_page_config(page_title="SkillBridge AI", page_icon="🎯", layout="wide")
+st.set_page_config(page_title="SkillGap AI", page_icon="🎯", layout="wide")
 
 st.markdown("""
     <style>
